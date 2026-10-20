@@ -1,0 +1,19 @@
+{
+  "name": "vaind",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Local Filipino ulam planning, costing and grocery lists",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.mjs",
+    "dev": "node --env-file-if-exists=.env server.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "prices:refresh": "node scripts/refresh-prices.mjs",
+    "share": "node --env-file-if-exists=.env server.mjs --share",
+    "mobile": "node --env-file-if-exists=.env scripts/mobile.mjs",
+    "android:build": "node scripts/build-apk.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

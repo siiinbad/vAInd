@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "name": "CDN \u00b7 latest Presyo Merkado reports",
+      "url": "https://cebudailynews.inquirer.net/category/presyo-merkado",
+      "kind": "cdn-index"
+    },
+    {
+      "name": "CDN \u00b7 Presyo Merkado, Mandaue",
+      "url": "https://cebudailynews.inquirer.net/509909/presyo-merkado-current-prices-of-food-in-metro-cebu-markets",
+      "kind": "cdn"
+    },
+    {
+      "name": "DA price monitoring",
+      "url": "https://www.da.gov.ph/price-monitoring/",
+      "kind": "index"
+    },
+    {
+      "name": "DA Region VII",
+      "url": "https://rfo7.da.gov.ph/",
+      "kind": "index"
+    }
+  ]
+}

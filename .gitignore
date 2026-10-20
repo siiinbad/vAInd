@@ -1,0 +1,15 @@
+.env
+node_modules/
+coverage/
+*.log
+
+.env
+.vaind/
+
+android/build/
+android/.signing/
+.android-sdk/
+dist/
+android/vendor/
+android/models/
+android/native-build/

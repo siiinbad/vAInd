@@ -1,0 +1,8 @@
+<resources>
+ <string name="app_name">vAInd</string>
+ <string name="save">Save</string><string name="cancel">Cancel</string><string name="retry">Try again</string>
+ <string name="open_file">Open a vAInd household or backup file</string><string name="save_file">Save vAInd file</string>
+ <string name="load_error">vAInd could not open. Your saved plans are kept. Try again, or update Android System WebView in the Play Store.</string>
+ <string name="webview_required">Update Android System WebView in the Play Store to use vAInd.</string>
+ <string name="external_error">No browser is available to open this link.</string>
+</resources>

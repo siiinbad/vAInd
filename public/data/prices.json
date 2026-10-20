@@ -1,0 +1,701 @@
+{
+  "version": 2,
+  "region": "Philippines",
+  "refreshedAt": null,
+  "prices": [
+    {
+      "id": "chicken",
+      "name": "Chicken, whole",
+      "category": "chicken",
+      "unit": "kg",
+      "price": 190,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "pork",
+      "name": "Pork, lean",
+      "category": "pork",
+      "unit": "kg",
+      "price": 350,
+      "date": "2024-07-26",
+      "source": "CDN · Presyo Merkado, Mandaue",
+      "sourceUrl": "https://cebudailynews.inquirer.net/509909/presyo-merkado-current-prices-of-food-in-metro-cebu-markets",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Mandaue City"
+      }
+    },
+    {
+      "id": "beef",
+      "name": "Beef",
+      "category": "beef",
+      "unit": "kg",
+      "price": 380,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "bangus",
+      "name": "Bangus / milkfish",
+      "category": "fish",
+      "unit": "kg",
+      "price": 200,
+      "date": "2024-07-26",
+      "source": "CDN · Presyo Merkado, Mandaue",
+      "sourceUrl": "https://cebudailynews.inquirer.net/509909/presyo-merkado-current-prices-of-food-in-metro-cebu-markets",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Mandaue City"
+      }
+    },
+    {
+      "id": "tilapia",
+      "name": "Tilapia",
+      "category": "fish",
+      "unit": "kg",
+      "price": 200,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "scad",
+      "name": "Bodboron / round scad",
+      "category": "fish",
+      "unit": "kg",
+      "price": 160,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "shrimp",
+      "name": "Shrimp / pasayan",
+      "category": "shellfish",
+      "unit": "kg",
+      "price": 350,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "mussels",
+      "name": "Mussels / tahong",
+      "category": "shellfish",
+      "unit": "kg",
+      "price": 130,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "squash",
+      "name": "Squash / kalabasa",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 60,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant / talong",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 100,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "sitaw",
+      "name": "String beans / sitaw",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 100,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage / repolyo",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 80,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "sayote",
+      "name": "Sayote",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 50,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "kangkong",
+      "name": "Kangkong",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 60,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "tomato",
+      "name": "Tomatoes / kamatis",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 100,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "potato",
+      "name": "Potatoes / patatas",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 110,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "egg",
+      "name": "Egg, medium",
+      "category": "others",
+      "unit": "piece",
+      "price": 8,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "tofu",
+      "name": "Tofu / tokwa",
+      "category": "others",
+      "unit": "kg",
+      "price": 100,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "monggo",
+      "name": "Monggo, dry",
+      "category": "others",
+      "unit": "kg",
+      "price": 140,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "sardines",
+      "name": "Canned sardines, 155 g",
+      "category": "others",
+      "unit": "can",
+      "price": 25,
+      "date": "2026-10-20",
+      "source": "Unverified starter estimate — replace locally",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-chicken-adobo",
+      "name": "Chicken adobo (ready-cooked ulam)",
+      "category": "chicken",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 45,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-pork-adobo",
+      "name": "Pork adobo (ready-cooked ulam)",
+      "category": "pork",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 50,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-bistek",
+      "name": "Bistek Tagalog (ready-cooked ulam)",
+      "category": "beef",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 65,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-paksiw",
+      "name": "Paksiw na bangus (ready-cooked ulam)",
+      "category": "fish",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 50,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-pritong-isda",
+      "name": "Pritong tilapia (ready-cooked ulam)",
+      "category": "fish",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 45,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-scrambled-eggs",
+      "name": "Scrambled eggs (ready-cooked ulam)",
+      "category": "others",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 15,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-tortang-talong",
+      "name": "Tortang talong (ready-cooked ulam)",
+      "category": "others",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 30,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    },
+    {
+      "id": "ready-tofu-adobo",
+      "name": "Adobong tokwa (ready-cooked ulam)",
+      "category": "others",
+      "kind": "ready",
+      "unit": "serving",
+      "price": 25,
+      "date": "2026-10-20",
+      "source": "Unverified carinderia starter estimate — enter your vendor’s price",
+      "sourceUrl": null,
+      "status": "estimate",
+      "location": null
+    }
+  ],
+  "observations": [
+    {
+      "id": "chicken",
+      "name": "Chicken, whole",
+      "category": "chicken",
+      "unit": "kg",
+      "price": 190,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "pork",
+      "name": "Pork, lean",
+      "category": "pork",
+      "unit": "kg",
+      "price": 350,
+      "date": "2024-07-26",
+      "source": "CDN · Presyo Merkado, Mandaue",
+      "sourceUrl": "https://cebudailynews.inquirer.net/509909/presyo-merkado-current-prices-of-food-in-metro-cebu-markets",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Mandaue City"
+      }
+    },
+    {
+      "id": "beef",
+      "name": "Beef",
+      "category": "beef",
+      "unit": "kg",
+      "price": 380,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "bangus",
+      "name": "Bangus / milkfish",
+      "category": "fish",
+      "unit": "kg",
+      "price": 200,
+      "date": "2024-07-26",
+      "source": "CDN · Presyo Merkado, Mandaue",
+      "sourceUrl": "https://cebudailynews.inquirer.net/509909/presyo-merkado-current-prices-of-food-in-metro-cebu-markets",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Mandaue City"
+      }
+    },
+    {
+      "id": "tilapia",
+      "name": "Tilapia",
+      "category": "fish",
+      "unit": "kg",
+      "price": 200,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "scad",
+      "name": "Bodboron / round scad",
+      "category": "fish",
+      "unit": "kg",
+      "price": 160,
+      "date": "2026-05-12",
+      "source": "GMA Regional TV · Carbon Market",
+      "sourceUrl": "https://www.gmanetwork.com/regionaltv/news/114055/rice-prices-drop-in-cebu-market-prices-of-meat-fish-stable/story/",
+      "status": "reported",
+      "location": {
+        "province": "Cebu",
+        "city": "Cebu City"
+      }
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken, whole",
+      "category": "chicken",
+      "unit": "kg",
+      "price": 214.36,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · whole chicken, fully dressed",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "pork",
+      "name": "Pork, lean",
+      "category": "pork",
+      "unit": "kg",
+      "price": 308.97,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · local kasim",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "beef",
+      "name": "Beef",
+      "category": "beef",
+      "unit": "kg",
+      "price": 499.82,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · local lean rump",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "bangus",
+      "name": "Bangus / milkfish",
+      "category": "fish",
+      "unit": "kg",
+      "price": 239.91,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · medium bangus",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "tilapia",
+      "name": "Tilapia",
+      "category": "fish",
+      "unit": "kg",
+      "price": 154.03,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · medium tilapia",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "scad",
+      "name": "Bodboron / round scad",
+      "category": "fish",
+      "unit": "kg",
+      "price": 295.51,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · local medium galunggong",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "squash",
+      "name": "Squash / kalabasa",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 60.52,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · Suprema squash",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "eggplant",
+      "name": "Eggplant / talong",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 83.68,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · eggplant",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "sitaw",
+      "name": "String beans / sitaw",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 129.64,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · pole sitao",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage / repolyo",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 143.06,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · Wonder Ball cabbage",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "sayote",
+      "name": "Sayote",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 62.78,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · chayote",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "tomato",
+      "name": "Tomatoes / kamatis",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 104.09,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · tomato",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "potato",
+      "name": "Potatoes / patatas",
+      "category": "vegetables",
+      "unit": "kg",
+      "price": 165.56,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · local white potato",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "egg",
+      "name": "Egg, medium",
+      "category": "others",
+      "unit": "piece",
+      "price": 8.22,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · white medium egg",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    },
+    {
+      "id": "monggo",
+      "name": "Monggo, dry",
+      "category": "others",
+      "unit": "kg",
+      "price": 148.27,
+      "date": "2026-10-19",
+      "source": "DA NCR daily index · mungbean",
+      "sourceUrl": "https://www.da.gov.ph/wp-content/uploads/2026/10/Daily-Price-Index-October-19-2026.pdf",
+      "status": "reported",
+      "location": {
+        "province": "Metro Manila",
+        "city": ""
+      },
+      "market": "Selected wet markets, NCR"
+    }
+  ]
+}
