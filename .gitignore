@@ -1,15 +1,35 @@
+# Local environment and private household/signing data
 .env
+.env.*
+!.env.example
+/.vaind/
+/android/.signing/
+*.jks
+*.keystore
+*.key
+
+# Dependencies, SDK, model downloads and generated builds
 node_modules/
+/.android-sdk/
+/android/vendor/
+/android/models/
+/android/build/
+/android/native-build/
+*.gguf
+
+# Installers belong in release downloads, not Git history.
+# Match them anywhere, including manually created installables folders.
+/dist/
+/installables/
+*.apk
+*.aab
+*.apks
+*.xapk
+*.idsig
+
+# Test output, temporary files and editor/OS noise
 coverage/
 *.log
-
-.env
-.vaind/
-
-android/build/
-android/.signing/
-.android-sdk/
-dist/
-android/vendor/
-android/models/
-android/native-build/
+*.tmp
+.DS_Store
+Thumbs.db
